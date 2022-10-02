@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		5101849C28E8D48600FDED8F /* PhotoViewerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5101849B28E8D48600FDED8F /* PhotoViewerViewModel.swift */; };
 		5101849E28E8D6AD00FDED8F /* PhotoViewerViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5101849D28E8D6AD00FDED8F /* PhotoViewerViewModelTests.swift */; };
+		510184A028E9B77300FDED8F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5101849F28E9B77300FDED8F /* README.md */; };
 		518CE3B728E609A4001A1534 /* PhotoboxApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518CE3B628E609A4001A1534 /* PhotoboxApp.swift */; };
 		518CE3B928E609A4001A1534 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518CE3B828E609A4001A1534 /* ContentView.swift */; };
 		518CE3BB28E609A5001A1534 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 518CE3BA28E609A5001A1534 /* Assets.xcassets */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		5101849B28E8D48600FDED8F /* PhotoViewerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewerViewModel.swift; sourceTree = "<group>"; };
 		5101849D28E8D6AD00FDED8F /* PhotoViewerViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewerViewModelTests.swift; sourceTree = "<group>"; };
+		5101849F28E9B77300FDED8F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		518CE3B328E609A4001A1534 /* Photobox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Photobox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		518CE3B628E609A4001A1534 /* PhotoboxApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoboxApp.swift; sourceTree = "<group>"; };
 		518CE3B828E609A4001A1534 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 		518CE3AA28E609A4001A1534 = {
 			isa = PBXGroup;
 			children = (
+				5101849F28E9B77300FDED8F /* README.md */,
 				518CE3B528E609A4001A1534 /* Photobox */,
 				518CE3C628E609A5001A1534 /* PhotoboxTests */,
 				518CE3D028E609A5001A1534 /* PhotoboxUITests */,
@@ -264,6 +267,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				510184A028E9B77300FDED8F /* README.md in Resources */,
 				518CE3BE28E609A5001A1534 /* Preview Assets.xcassets in Resources */,
 				518CE3BB28E609A5001A1534 /* Assets.xcassets in Resources */,
 			);
