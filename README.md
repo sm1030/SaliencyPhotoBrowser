@@ -25,7 +25,7 @@ I would fix the status bar text on the PhotoViewerView page. Right now it is bla
 I follow closely the design provided with the assessment, but if I had more freedom then I would:
  
 1. Expand image from the same page, so clicked image would grow and fill the whole screen 
-2. I would use two zoom buttons that would represent the zoom state. I would show magnifying glass with plus button when you in fit mode and show magnifying glass with minus button when you in fill mode
+2. I would toggle zoom button SF image between zoom state. So, I would show magnifying glass with plus button when you in fit mode and show magnifying glass with minus button when you in fill mode
 3. I would enable the saliency box only upon user request, not showing it all the time.
 
 
