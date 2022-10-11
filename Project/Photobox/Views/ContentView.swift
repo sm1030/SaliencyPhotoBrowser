@@ -54,6 +54,7 @@ struct ContentView: View {
                 }
             }.navigationBarTitle(Text("Recents"), displayMode: .inline)
         }
+        .navigationViewStyle(.stack)
     }
 }
 
